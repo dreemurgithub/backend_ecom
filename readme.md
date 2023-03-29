@@ -17,3 +17,4 @@ Chỉ sử dụng được sau khi đăng nhập. lấy user hiện tại để 
 Client get request tới histories/:query có query string chứa user_id, ta parse query ra và return danh sách order. histories/order/:id chúa toàn bộ thông tin của order
 ### Product
 Schema của product, của order ở trong mongo.js và tất cả các lệnh của Client có sẵn đều là get request với query string chứa ID sản phẩm.
+## Client site code https://github.com/dreemurgithub/frontend-assignment-03-funix-resource
