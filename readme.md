@@ -34,4 +34,4 @@ app.use((req, res, next) => {
     }
 });
 ```
-Với origin ở đây là  ['https://asm3-mon5.web.app']
+Với origin ở đây là  ['https://asm3-mon5.web.app'] trên deploy và  ['http://localhost:3000'] của dev enviroment
